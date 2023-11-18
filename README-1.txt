@@ -14,3 +14,5 @@ Lenguaje utilizado: Haskell
 0321774094
 067973371X
 
+
+https://youtu.be/irbKlN_FUtQ?si=7Hw3XgYJXat3bhmy   Enlace al viddeo de explicacion
