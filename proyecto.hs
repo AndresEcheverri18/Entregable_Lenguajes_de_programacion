@@ -31,6 +31,6 @@ listaResiduo = multiplicarPorDiez listGG
 suma:: Int 
 suma = sum listaResiduo
 
-resultado :: Bool
-resultado = verificarResiduoCero suma
+validez :: Bool
+validez = verificarResiduoCero suma
 
